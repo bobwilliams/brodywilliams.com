@@ -1,6 +1,6 @@
 # Brody's Blog
 
-Welcome to [my blog](http://brodywilliams.com/)
+Welcome to [Brody's blog](http://brodywilliams.com/)
 
 # License
 
